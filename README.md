@@ -1,10 +1,10 @@
 # Cross-Validation
 Evaluate the differences between leave-one-out cross-validation, K-fold cross-validation, and holdout cross-validation
 
-# Steps followed 
 
-Load the Data
-Preprocess the Data
+
+1. Load the Data
+2. Preprocess the Data
 Apply Cross-Validation Techniques
 Evaluate and Choose the Most Appropriate Technique
 Visualize the Results
