@@ -5,9 +5,10 @@ Evaluate the differences between leave-one-out cross-validation, K-fold cross-va
 
 1. Load the Data
 2. Preprocess the Data
-Apply Cross-Validation Techniques
-Evaluate and Choose the Most Appropriate Technique
-Visualize the Results
+3. Apply Cross-Validation Techniques
+4. Evaluate and Choose the Most Appropriate Technique
+5. Visualize the Results
+   
 
 We'll load the Wine Quality dataset from the UCI Machine Learning Repository. 
 url = 'https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv'
