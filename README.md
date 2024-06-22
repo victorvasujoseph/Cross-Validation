@@ -36,4 +36,4 @@ Particularly useful for imbalanced datasets.
 # Conclusion
 For the Wine Quality dataset, Stratified K-Fold Cross-Validation is the most appropriate technique as it ensures that each fold maintains the same class distribution, providing a balance between bias and variance while maintaining class distribution.
 
-<img src="images/result.png" alt="My Image" width="700"/>
+<img src="image/result.png" alt="My Image" width="700"/>
